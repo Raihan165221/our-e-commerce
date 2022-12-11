@@ -1,0 +1,81 @@
+ const productsList = [
+        {
+            id: "1",
+            name: "Infinix Hot 20S",
+            description: "Infinix Hot 20S comes with 6.78 inches Full HD+ IPS Lcd screen. It has a center punch-hole front camera design.",
+            price: 120,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "2",
+            name: "Oppo A17K",
+            description: "Oppo A17K comes with 6.56 inches HD+ screen. It has a Full-View waterdrop notch design. The back camera is of dual 8 MP with LED flash, autofocus, panorama etc. and Full HD video recording",
+            price: 12990,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "3",
+            name: "Vivo Y02s",
+            description: "Vivo Y02s comes with 6.51 inches HD+ IPS LCD screen. It has a Full-View waterdrop notch design. The back camera is of single 8 MP with autofocus, f/2.0 aperture, LED flash etc. and Full HD video recording. ",
+            price: 12599,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "4",
+            name: "Walton Primo R10",
+            description: "Walton Primo R10 comes with 6.52 inches HD+ IPS screen. It has a full-view waterdrop notch design",
+            price: 12900,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "5",
+            name: "Xiaomi Redmi A1+",
+            description: "Xiaomi Redmi A1+ comes with 6.52 inches HD+ screen. It has a Full-View waterdrop notch design. The back camera is of dual 8+0.8 MP with f/2.0 aperture, dual-LED flash, HDR etc. features and Full HD video recording option",
+            price: 14500,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "6",
+            name: "Symphony i73",
+            description: "Symphony i73 comes with 6 inches HD+ IPS screen. It has a Full-View design. The back camera is of 8 MP main camera with autofocus, LED Flash, portrait mode, night mode, HDR etc. and Full HD video recording. The front camera is of 5 MP. ",
+            price: 21300,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "7",
+            name: "Realme C33",
+            description: "Realme C33 comes with 6.5 inches HD+ IPS LCD screen. It has a full-view waterdrop notch design. The back camera is of dual 50+0.3 MP with PDAF, LED flash, depth sensor, etc. and Full HD video recording. The front camera is of 5 MP",
+            price: 14990,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "8",
+            name: "Oppo A17",
+            description: "Oppo A17 comes with 6.56 inches HD+ screen. It has a Full-View waterdrop notch design. The back camera is of dual 50+2 MP with LED flash, PDAF, depth sensor, HDR etc. and Full HD video recording.",
+            price: 15990,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "9",
+            name: "Symphony Z47",
+            description: "Symphony Z47 comes with 6.6 inches HD+ IPS screen. It has a Full-View waterdrop notch design. The back camera is of 52 MP with PDAF, LED Flash, portrait mode, night mode etc.",
+            price: 16990,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        },
+        {
+            id: "10",
+            title: "Infinix brings",
+            description: "We have a huge 6.78 inches Full HD+ IPS LCD display. Yes, its not AMOLED, but on the bright side we have up to 120Hz refresh rate. Also, many phones are still coming with HD+ displays around this price. So, Full HD+ quality is also appreciated here.",
+            price: 18999,
+            image: "./products/Image/laptop.jpg",
+            category:"mobail"
+        }]
