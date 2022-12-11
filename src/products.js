@@ -378,29 +378,4 @@ const products = [
   }
 ];
 
-const root = document.getElementById('root');
-root.style.display = 'flex';
-root.style.flexWrap = 'wrap';
 
-products.forEach((v, index) => {
-  const img = document.createElement('img');
-  img.src = v.image;
-  img.style.width = '100px';
-  img.style.aspectRatio = 1;
-
-  const h3 = document.createElement('h3');
-  h3.innerText = `${index + 1}.${v.name}`;
-  const p = document.createElement('p');
-  p.innerText = v.catagory;
-
-  const div = document.createElement('div');
-  div.style.padding = '1rem';
-  div.appendChild(img);
-  div.appendChild(h3);
-  div.appendChild(p);
-
-  div.style.border = '1px solid black';
-  div.style.margin = '1rem';
-
-  root.appendChild(div);
-});
