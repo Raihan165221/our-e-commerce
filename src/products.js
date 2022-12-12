@@ -529,3 +529,5 @@ const products = [
     discription: 'a good looking and comfortable sofa from mikas',
   },
 ];
+
+export default products;

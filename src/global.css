@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color-s: rgba(19, 19, 19, 0.873);
+}
+
+.container {
+    width: clamp(300px, 99%, 1300px);
+    margin: auto;
+}
+
+.display-text-1 {
+    font-weight: 100;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+.p-text-1 {
+    color: var(--text-color-s);
+    font-size: 1.1rem;
+}
+
+.p-text-2 {
+    color: black;
+    font-size: 1.4rem;
+}
