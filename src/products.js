@@ -308,73 +308,73 @@ const products = [
   },
   {
     name: 'R15',
-    img: 'https://img.freepik.com/free-photo/red-motor-biking-road_114579-5071.jpg?size=626&ext=jpg&uid=R73666718&ga=GA1.2.679012492.1669006221&semt=ais',
+    image: 'images/1.jpg',
     description: 'R15 is powered by 155 cc engine. This R15S engine generates a power of 18.6 PS @ 10000 rpm and a torque of 14.1 Nm @ 8500 rpm. Yamaha R15S gets Disc brakes in the front and rear.',
     price: 1921,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'Repsol',
-    img: 'https://images.unsplash.com/photo-1543134471-52488faa85af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVwc29sZSUyMG1vdG9yYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/2.jpg',
     description: 'This bike is powered by the 149.16 cc Engine.Repsol Generates Maximum Power 12.6 KW @ 9000 rpm. It is Maximum Torque is 13.7 Nm @ 7000 rpm.',
     price: 2289,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'Yamaha',
-    img: 'https://images.unsplash.com/photo-1654948263825-1c312cf43b24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8eWFtYWhhJTIwbW90b3JiaWtlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/3.jpg',
     description: 'Yamaha Motor Co., Ltd is a Japanese multinational manufacturer of motorcycles, marine products such as boats and outboard motors, and other motorized products.',
     price: 1499,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'Gixer',
-    img: 'https://images.unsplash.com/photo-1525290323000-41fd1fc78fa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3V6dWtpJTIwbW90b3JiaWtlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/4.jpg',
     description: 'Gixxer is a street bike available at a starting price of Rs. 1,30,718 in India. It is available in only 1 variant and 3 colours. The Suzuki Gixxer is powered by 155cc BS6 engine which develops a power of 13.41 bhp and a torque of 13.8 Nm.',
     price: 1000,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'Suzuki',
-    img: 'https://images.unsplash.com/photo-1525160354320-d8e92641c563?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aGVybyUyMG1vdG9yYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/5.jpg',
     description: 'The New Suzuki is featured with muscular street bike styling right, the overall ethos of the appearance is premium & stylish.',
     price: 1130,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'Fazer',
-    img: 'https://images.unsplash.com/photo-1568772585432-0bcd9add44f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1vdG9yYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/6.jpg',
     description: 'Our sources have confirmed that the Yamaha Fazer is all set to receive single-channel ABS from February 2019 onwards. Yamaha is likely to price the Fazer ABS at a premium of Rs 5,000 to Rs 7,000 over its non-ABS variant.',
     price: 1776,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'CBR',
-    img: 'https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG1vdG9yYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/7.jpg',
     description: 'The Honda CBR motorcycle with a price tag of estimate Rs. 1.70 Lakh. It is available in 1 variant and 4 colours. Powered by a bs6 engine',
     price: 1550,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'Gixer Double Disk',
-    img: 'https://images.unsplash.com/photo-1614165936126-2ed18e471b3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bW90b3JiaWtlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/8.jpg',
     description: 'Gixxer is a street bike available at a starting price of Rs. 1,30,718 in India. It is available in only 1 variant and 3 colours. The Suzuki Gixxer is powered by 155cc BS6 engine which develops a power of 13.41 bhp and a torque of 13.8 Nm.',
     price: 1410,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'R15 Yellow',
-    img: 'https://images.unsplash.com/photo-1609630875289-22852fa678ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vdG9yYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/9.jpg',
     description: 'R15 is powered by 155 cc engine. This R15S engine generates a power of 18.6 PS @ 10000 rpm and a torque of 14.1 Nm @ 8500 rpm. Yamaha R15S gets Disc brakes in the front and rear.',
     price: 1840,
-    category: 'bike'
+    catagory: 'bike'
   },
   {
     name: 'HONDA',
-    img: 'https://images.unsplash.com/photo-1502744688674-c619d1586c9e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW90b3JiaWtlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    image: 'images/10.jpg',
     description: 'Honda is the largest manufacturer of two Wheelers, Recognized the world over as the symbol of Honda two wheelers, arrived in Bangladesh.',
     price: 890,
-    category: 'bike'
+    catagory: 'bike'
   }
 ];
 
