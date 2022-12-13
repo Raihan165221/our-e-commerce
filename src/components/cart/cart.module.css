@@ -1,0 +1,129 @@
+.t_display {
+    text-align: center;
+    margin: 1em;
+}
+
+.content_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.products {
+    width: 64%;
+}
+
+.products_btn_wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.home_link {
+    display: block;
+    text-decoration: none;
+    width: 400px;
+    padding: 1em;
+    text-transform: uppercase;
+    font-size: .8em;
+    border: 2px solid black;
+}
+
+.products_count {
+    margin: 0 1.2em;
+}
+
+.products_list {
+    margin: 1em 0;
+    padding: .5em 0;
+}
+
+.product_card {
+    margin: .5em 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_cont {
+    width: 24%;
+    height: 15vw;
+    max-height: 200px;
+    min-height: 100px;
+    overflow: hidden;
+    position: relative;
+}
+
+.img_cont > img {
+    position: absolute;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+}
+
+.product_info {
+    width: 74%;
+    position: relative;
+}
+
+.product_info > div {
+    margin-bottom: .8em;
+    font-size: calc(.7em + .5vw);
+}
+.product_info > .product_qty {
+    position: absolute;
+    top: 20%;
+    right: 20px;
+    border: .5px solid rgba(28, 28, 28, 0.578);
+    border-radius: 50%;
+    width: 30px;
+    display: grid;
+    place-content: center;
+    aspect-ratio: 1;
+    font-size: .8em;
+    margin: auto;
+}
+
+.product_info > .price {
+    /* position: absolute;
+    right: 0;
+    bottom: 0; */
+    text-align: right;
+    margin: auto;
+    font-size: calc(1.2rem + 1.5vw);
+    font-weight: 100;
+}
+
+.chackout {
+    width: 33%;
+}
+
+.chackout_text {
+    background-color: black;
+    width: 98%;
+    margin: auto;
+    color: white;
+    padding: .9em;
+}
+
+.order_summary {
+    padding: 1em;
+    margin: 1.5em 0;
+    border: 1px solid rgba(52, 52, 52, 0.501);
+    border-radius: 10px;
+}
+
+.checkout_value {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5em 0;
+}
+
+@media only screen and (max-width: 1000px) {
+    .content_wrapper {
+        flex-direction: column;
+    }
+
+    .content {
+        width: 100%;
+    }
+}
