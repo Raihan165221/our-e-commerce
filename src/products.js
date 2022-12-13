@@ -428,7 +428,7 @@ const products = [
       'Infinix Hot 20S comes with 6.78 inches Full HD+ IPS Lcd screen. It has a center punch-hole front camera design.',
     price: 120,
     image: 'images/Infinix_Hot_20S.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 52,
