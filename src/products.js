@@ -428,7 +428,7 @@ const products = [
       'Infinix Hot 20S comes with 6.78 inches Full HD+ IPS Lcd screen. It has a center punch-hole front camera design.',
     price: 120,
     image: 'images/Infinix_Hot_20S.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 52,
@@ -437,7 +437,7 @@ const products = [
       'Oppo A17K comes with 6.56 inches HD+ screen. It has a Full-View waterdrop notch design. The back camera is of dual 8 MP with LED flash, autofocus, panorama etc. and Full HD video recording',
     price: 12990,
     image: 'image/Oppo_A17K.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 53,
@@ -446,7 +446,7 @@ const products = [
       'Vivo Y02s comes with 6.51 inches HD+ IPS LCD screen. It has a Full-View waterdrop notch design. The back camera is of single 8 MP with autofocus, f/2.0 aperture, LED flash etc. and Full HD video recording. ',
     price: 12599,
     image: 'image/Vivo-Y02s.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 54,
@@ -455,7 +455,7 @@ const products = [
       'Walton Primo R10 comes with 6.52 inches HD+ IPS screen. It has a full-view waterdrop notch design',
     price: 12900,
     image: 'image/Walton-Primo-R10.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 55,
@@ -464,7 +464,7 @@ const products = [
       'Xiaomi Redmi A1+ comes with 6.52 inches HD+ screen. It has a Full-View waterdrop notch design. The back camera is of dual 8+0.8 MP with f/2.0 aperture, dual-LED flash, HDR etc. features and Full HD video recording option',
     price: 14500,
     image: 'image/Xiaomi-Redmi-A1-Plus.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 56,
@@ -473,7 +473,7 @@ const products = [
       'Symphony i73 comes with 6 inches HD+ IPS screen. It has a Full-View design. The back camera is of 8 MP main camera with autofocus, LED Flash, portrait mode, night mode, HDR etc. and Full HD video recording. The front camera is of 5 MP. ',
     price: 21300,
     image: 'image/symphony-i73.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 57,
@@ -482,7 +482,7 @@ const products = [
       'Realme C33 comes with 6.5 inches HD+ IPS LCD screen. It has a full-view waterdrop notch design. The back camera is of dual 50+0.3 MP with PDAF, LED flash, depth sensor, etc. and Full HD video recording. The front camera is of 5 MP',
     price: 14990,
     image: 'image/Realme-c33.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 58,
@@ -491,7 +491,7 @@ const products = [
       'Oppo A17 comes with 6.56 inches HD+ screen. It has a Full-View waterdrop notch design. The back camera is of dual 50+2 MP with LED flash, PDAF, depth sensor, HDR etc. and Full HD video recording.',
     price: 15990,
     image: 'image/Oppo-A17.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 59,
@@ -500,7 +500,7 @@ const products = [
       'Symphony Z47 comes with 6.6 inches HD+ IPS screen. It has a Full-View waterdrop notch design. The back camera is of 52 MP with PDAF, LED Flash, portrait mode, night mode etc.',
     price: 16990,
     image: 'image/Symphony-Z47.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 60,
@@ -509,7 +509,7 @@ const products = [
       'We have a huge 6.78 inches Full HD+ IPS LCD display. Yes, its not AMOLED, but on the bright side we have up to 120Hz refresh rate. Also, many phones are still coming with HD+ displays around this price. So, Full HD+ quality is also appreciated here.',
     price: 18999,
     image: 'image/Infinix-Hot-20S-teaser.jpg',
-    category: 'mobile',
+    catagory: 'mobile',
   },
   {
     id: 61,
