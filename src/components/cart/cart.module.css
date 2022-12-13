@@ -45,7 +45,9 @@
 
 .img_cont {
     width: 24%;
-    height: 200px;
+    height: 15vw;
+    max-height: 200px;
+    min-height: 100px;
     overflow: hidden;
     position: relative;
 }
@@ -65,7 +67,7 @@
 
 .product_info > div {
     margin-bottom: .8em;
-    font-size: 1.1rem;
+    font-size: calc(.7em + .5vw);
 }
 .product_info > .product_qty {
     position: absolute;
@@ -87,7 +89,7 @@
     bottom: 0; */
     text-align: right;
     margin: auto;
-    font-size: 2rem;
+    font-size: calc(1.2rem + 1.5vw);
     font-weight: 100;
 }
 
