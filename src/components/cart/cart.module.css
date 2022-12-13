@@ -50,6 +50,7 @@
     min-height: 100px;
     overflow: hidden;
     position: relative;
+    background-color: lightgray;
 }
 
 .img_cont > img {
